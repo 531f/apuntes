@@ -6,6 +6,8 @@ Si lo que buscas es la web, puedes verla en:
 
 https://apuntes.seif.es
 
+![](demo.gif)
+
 # Objetivos
 - Facilidad de uso.
 - Simplicidad de diseño.
