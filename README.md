@@ -1,5 +1,10 @@
+
 # ¿Qué es esto?
 Nuestra alternativa a Wuolah / Google Drive / Dropbox y otras plataformas para buscar o compartir apuntes. 
+
+Si lo que buscas es la web, puedes verla en:
+
+https://apuntes.seif.es
 
 # Objetivos
 - Facilidad de uso.
